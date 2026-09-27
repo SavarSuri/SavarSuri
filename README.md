@@ -1,5 +1,3 @@
-# Savar Suri
-
 **Cybersecurity B.S. @ Hofstra University '28 · Long Island, New York**
 
 [LinkedIn](https://www.linkedin.com/in/savarsuri1) · savarsuri06@gmail.com

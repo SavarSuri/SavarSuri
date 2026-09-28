@@ -1,6 +1,8 @@
+# Savar Suri
+
 **Cybersecurity B.S. @ Hofstra University '28 · Long Island, New York**
 
-[LinkedIn](https://www.linkedin.com/in/savarsuri1) · savarsuri06@gmail.com
+[savarsuri-site.vercel.app](https://savarsuri-site.vercel.app) · [LinkedIn](https://www.linkedin.com/in/savarsuri1) · savarsuri06@gmail.com
 
 ---
 
@@ -8,8 +10,10 @@
 
 - 🏖️ Long Island, New York
 - 🎓 Studying Cybersecurity @ Hofstra University '28
-- 🏛️ Former IT Intern @ Town of Oyster Bay
-- 🤖 Building AI automation workflows for small businesses
+- 🏛️ Former IT & Cybersecurity Intern @ Town of Oyster Bay
+- 🤖 AI model evaluation contractor @ Handshake AI
+- 🧑‍🏫 CS & cybersecurity tutor @ Preply
+- ⚙️ Building LLM automation for small businesses
 
 I'm most interested in where security meets AI systems — prompt injection,
 LLM abuse, and what happens when you put a language model somewhere
@@ -24,43 +28,52 @@ internships. Aggregate ghost rates, offer rates, and per-company
 breakdowns. Built it because I was dozens of applications deep with no
 idea what was normal.
 
-Found and patched a stored XSS in my own submission feed — all
-user-supplied content is now HTML-escaped before rendering.
+Audited my own source and found a **stored XSS** — every user-supplied
+field was written straight into `innerHTML`. Remediated by HTML-escaping
+all output, adding database-level length constraints, and scoping
+row-level security to SELECT and INSERT only.
 
-`JavaScript` `Supabase` `Vercel`
+`JavaScript` `Supabase` `PostgreSQL` `Vercel`
 
-**[AI Lead Follow-Up Automation](https://github.com/SavarSuri/ai-lead-followup-automation)**
+**[AI Lead-Response Automation](https://github.com/SavarSuri/ai-lead-followup-automation)**
 
-An n8n workflow that captures an inbound lead and returns a personalized,
-AI-generated reply in under five seconds. Webhook → field mapping →
-Anthropic API → Gmail.
+A 4-stage pipeline — webhook ingestion → field normalization → Anthropic
+API inference → Gmail delivery — that takes an inbound web-form lead and
+returns a personalized reply in under a minute, unattended.
 
-`n8n` `Anthropic API` `Webhooks`
+`n8n` `Anthropic API` `Webhooks` `Gmail API`
 
-## 📖 Currently Learning
+**[Personal Site](https://github.com/SavarSuri/savarsuri-site)** — *live at [savarsuri-site.vercel.app](https://savarsuri-site.vercel.app)*
 
-- CompTIA Security+ (in progress)
-- HackTheBox / TryHackMe
+Terminal-first portfolio. Type `help` to explore, or enter the visual site.
+
+`HTML` `CSS` `JavaScript` `Vercel`
+
+## 📖 Currently
+
+- CompTIA Security+ (exam Nov 2026)
+- PortSwigger Web Security Academy — OWASP Top 10
+- TryHackMe Cyber Defense path
 - ARM assembly and systems programming
 
 ## 🛠️ Tech Stack
 
-**Languages**
-`Python` `Java` `C/C++` `JavaScript` `ARM Assembly`
+**Languages** `Python` `Java` `C/C++` `JavaScript` `ARM Assembly` `SQL`
 
-**Security**
-`Wireshark` `Nmap` `Linux`
+**Security** `Stored XSS remediation` `output encoding` `row-level security` `adversarial model evaluation` `Wireshark` `Nmap`
 
-**Build**
-`Git` `Supabase` `Vercel` `n8n` `Anthropic API`
+**Build** `Git` `Linux` `Supabase/PostgreSQL` `Vercel` `n8n` `Anthropic API`
 
 ## 📜 Certifications
 
-- Cisco — Introduction to Cybersecurity (2026)
-- Fortinet NSE 1 *(in progress)*
-- CompTIA Security+ *(in progress)*
+- ✅ Cisco — Introduction to Cybersecurity (2026)
+- ✅ ISC2 — Certificate of Completion (2025)
+- ✅ Mastercard — Cybersecurity Job Simulation, Forage (2025)
+- ⏳ Fortinet NSE 1 *(in progress)*
+- ⏳ CompTIA Security+ *(exam Nov 2026)*
 
 ## 📫 Let's Connect
 
+- 🌐 [savarsuri-site.vercel.app](https://savarsuri-site.vercel.app)
 - ✉️ savarsuri06@gmail.com
 - 💼 [linkedin.com/in/savarsuri1](https://www.linkedin.com/in/savarsuri1)

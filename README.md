@@ -64,10 +64,8 @@ One self-contained HTML file, no framework and no build step. Six views, hash ro
 
 ## 📜 Certifications
 
-- ✅ Fortinet NSE 1 — Certified in Cybersecurity (2026)
 - ✅ Fortinet NSE 2 — Certified in Cybersecurity (2026)
 - ✅ Cisco — Introduction to Cybersecurity (2026)
-- ✅ ISC2 — Certificate of Completion (2025)
 - ✅ Mastercard — Cybersecurity Job Simulation, Forage (2025)
 - ⏳ CompTIA Security+ (exam December 2026)
 

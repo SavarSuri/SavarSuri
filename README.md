@@ -1,6 +1,6 @@
 CS and Cybersecurity B.S. @ Hofstra University '28 · Long Island, New York
 
-[Persona Site](https://savarsuri-site.vercel.app) · [LinkedIn](https://linkedin.com/in/savarsuri1) · savarsuri06@gmail.com
+[Personal Site](https://savarsuri-site.vercel.app) · [LinkedIn](https://linkedin.com/in/savarsuri1) · savarsuri06@gmail.com
 
 ---
 
